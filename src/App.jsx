@@ -50,7 +50,7 @@ function App() {
   return (
     <>
       <div
-        className="flex flex-col justify-center items-center bg-slate-600 w-full font-robotoBold"
+        className="flex flex-col justify-center items-center bg-[#836342] w-full font-robotoBold"
         ref={container}
       >
         <img src="logo.png" className="w-72 rounded-full my-7 box" />
